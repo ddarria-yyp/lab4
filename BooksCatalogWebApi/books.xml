@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BookCatalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Books>
+    <BookId>8daa389f-ccb3-4da5-be20-2da70688d823</BookId>
+    <Title>Мастер и Маргарита</Title>
+    <Author>Булгаков</Author>
+    <ISBN>321-654</ISBN>
+    <Brief>Роман</Brief>
+    <Date>2010-10-10T00:00:00</Date>
+    <Genre>роман</Genre>
+  </Books>
+</BookCatalog>
